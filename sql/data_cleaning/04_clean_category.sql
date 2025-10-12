@@ -1,21 +1,15 @@
--- Create a new table events_clean_step2 with cleaned brand
+-- Brick 7.3: Category Code Cleaning
+-- Create a new table events_clean_step3 with cleaned category_code
 
-CREATE OR REPLACE TABLE `infra-throne-471611-v9.ecommerce_analytics.events_clean_step2` AS
+CREATE OR REPLACE TABLE `infra-throne-471611-v9.ecommerce_analytics.events_clean_step3` AS
 SELECT 
     event_time,
     event_type,
     product_id,
     category_id,
-    category_code,
-    IFNULL(LOWER(brand), "unknown") AS brand,  -- replace NULL with 'unknown' & lowercase
+    IFNULL(category_code, "unknown_category") AS category_code,  -- fill missing
+    brand,
     price,
     user_id,
     user_session
-FROM `infra-throne-471611-v9.ecommerce_analytics.events_clean_step1`;
-
-
-SELECT 
-  COUNT(*) AS total_rows,
-  COUNTIF(brand IS NULL) AS null_brand,
-  COUNT(DISTINCT brand) AS unique_brands
 FROM `infra-throne-471611-v9.ecommerce_analytics.events_clean_step2`;
