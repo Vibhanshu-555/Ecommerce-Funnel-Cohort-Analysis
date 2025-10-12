@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary / sensitive files
+*.tmp
+*.bak
+*.log
+*.zip
+
+# Ignore large local data
+data/raw/*
+!data/raw/README.md
