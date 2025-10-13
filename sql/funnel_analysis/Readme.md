@@ -17,7 +17,7 @@ Analyze the user journey through the e-commerce funnel (View → Cart → Purcha
 ---
 
 ## Key Metrics / Insights
-- Overall conversion rate (view → purchase): **4.84%**  
+- Overall conversion rate (view → purchase): **2.78%**  
 - Category with highest purchase rate: **electronics**  
 - Brand with highest cart-to-purchase conversion: **apple**  
 - Users drop most between **view → cart** stage.  
