@@ -1,5 +1,9 @@
 # Ecommerce Analytics SQL + Tableau Dashboard
 
+![SQL](https://img.shields.io/badge/SQL-blue) 
+![Tableau](https://img.shields.io/badge/Tableau-orange) 
+![Excel](https://img.shields.io/badge/Excel-green)
+
 ## Executive Summary
 E-commerce conversion has been low for this online retail platform, and we aimed to determine the root causes and identify opportunities to improve conversion, retention, and revenue.  
 Using SQL for data extraction and cleaning, and Tableau for visualization, we analyzed user behavior through the purchase funnel, cohort retention, and product/category performance.  
