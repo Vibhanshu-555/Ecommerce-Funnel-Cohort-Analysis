@@ -1,2 +1,0 @@
-# dashboard/screenshots
-Screenshots and visuals from the Tableau dashboard.
