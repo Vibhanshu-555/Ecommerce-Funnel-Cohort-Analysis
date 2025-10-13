@@ -36,4 +36,5 @@ It is organized by analysis module, with each subfolder containing CSV outputs a
 ---
 
 **Author:** Vibhanshu Dubey
+
 **Repository:** [ecommerce-analytics-sql-dashboard](https://github.com/Vibhanshu-555/ecommerce-analytics-sql-dashboard)
