@@ -17,7 +17,7 @@ Charts are organized by analysis type to match the results and dashboard.
 
 ## Notes
 
-- Each chart corresponds to the CSV outputs in the [`/results/`](../../results/) folder.  
-- These charts were used to build the **Tableau dashboard** in [`/dashboard/`](../../dashboard/)`.  
+- Each chart corresponds to the CSV outputs in the [`/results/`](../results/) folder.  
+- These charts were used to build the **Tableau dashboard** in [`/dashboard/`](../dashboard/)`.  
 - Charts are exported as high-resolution PNGs for clarity.  
 - File names are descriptive to allow quick reference.
