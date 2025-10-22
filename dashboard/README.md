@@ -21,5 +21,5 @@ This table shows which dataset was used for each element of the Tableau dashboar
 | KPI Cards (Total Purchases & Overall Conversion) | `event_count.csv` |
 
 **Notes:**
-- For individual chart details and insights, see the [`/visuals/`](../../visuals/) folder and [`/results/`](../../results/) markdowns.
+- For individual chart details and insights, see the [`/visuals/`](../visuals/) folder and [`/results/`](../results/) markdowns.
 - This mapping ensures transparency in how each visualization was created and allows replication of the charts.
