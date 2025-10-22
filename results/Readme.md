@@ -29,9 +29,9 @@ It is organized by analysis module, with each subfolder containing CSV outputs a
 
 ## Notes
 
-- All results are derived from the cleaned dataset: `data/cleaned/events_cleaned_final.csv`.  
+- All results are derived from the cleaned dataset: [`data/cleaned/events_cleaned_final.csv`](../data/cleaned/events_cleaned_final.csv).  
 - The markdown summaries provide context for the Tableau dashboard visualizations.  
-- This folder is **read-only** and intended for reference; SQL scripts and dashboards are in `/sql/` and `/dashboards/`.
+- This folder is **read-only** and intended for reference; SQL scripts and dashboards are in [`/sql/`](../sql/) and [`/dashboards/`](../dashboards/).
 
 ---
 
