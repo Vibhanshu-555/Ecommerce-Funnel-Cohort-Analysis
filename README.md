@@ -1,4 +1,4 @@
-# Ecommerce Analytics SQL + Tableau Dashboard
+# Ecommerce Funnel and Cohort Analytics SQL + Tableau Dashboard
 
 ![SQL](https://img.shields.io/badge/SQL-blue) 
 ![Tableau](https://img.shields.io/badge/Tableau-orange) 
